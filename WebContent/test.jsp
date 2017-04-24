@@ -4,7 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<<<<<<< HEAD
 <title>Insert title hola daniela te amo</title>
+=======
+<title>Insert title </title>
+>>>>>>> branch 'master' of https://github.com/Andi1209/Parcial_2.git
 </head>
 <body>
 
